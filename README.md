@@ -311,14 +311,23 @@ AI is NOT used to:
 ## 6️⃣ SUGGESTED REPOSITORY STRUCTURE
 
 /data
+
 /fundamentals
+
 /technicals
+
 /strategies
+
 /backtests
+
 /portfolio
+
 /risk
+
 /ml
+
 /notebooks
+
 /docs
 
 
